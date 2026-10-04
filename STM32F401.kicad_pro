@@ -917,9 +917,14 @@
         "filename": "gyroscope.kicad_sch",
         "name": "Gyroscope",
         "uuid": "544e9615-df21-4244-8d87-1c37514de6d6"
+      },
+      {
+        "filename": "ponte-h.kicad_sch",
+        "name": "Ponte-H",
+        "uuid": "97610972-76b2-4aff-a2c5-9473a17dc4d2"
       }
     ],
-    "used_designators": "U3,IC1",
+    "used_designators": "C12-20,#PWR10-26,#PWR112-115,R5-8,U3-6,IC1",
     "variants": []
   },
   "sheets": [
@@ -934,6 +939,10 @@
     [
       "544e9615-df21-4244-8d87-1c37514de6d6",
       "Gyroscope"
+    ],
+    [
+      "97610972-76b2-4aff-a2c5-9473a17dc4d2",
+      "Ponte-H"
     ]
   ],
   "text_variables": {},
